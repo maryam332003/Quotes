@@ -1,0 +1,20 @@
+.container .quoteInfo h1 {
+    font-size: 80px;
+    font-weight: 900;
+    word-spacing: 0px;
+    margin: 53.6px 0px;
+    padding: 0px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.container .quoteInfo .static p {
+    margin: 35px 0px;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.container .quoteInfo .changed p {
+    font-size: 35px;
+    margin: 35px 0px;
+    font-weight: 400;
+}
